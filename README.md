@@ -1,1 +1,2 @@
-# harrypotter
+- you have to set-up SFML in your C++ enviroment
+- you can stert the game from the game.cpp file
